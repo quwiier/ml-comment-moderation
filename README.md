@@ -15,7 +15,7 @@
 | Данные, жизненный цикл и privacy | [docs/05-data.md](docs/05-data.md) |
 | Архитектурные решения и альтернативы | [docs/06-decisions.md](docs/06-decisions.md) |
 | Сценарий защиты | [docs/07-presentation.md](docs/07-presentation.md) |
-| BPMN AS-IS и TO-BE | [diagrams/README.md](diagrams/README.md), [AS-IS.bpmn](diagrams/moderation-as-is.bpmn), [AS-IS.png](diagrams/moderation-as-is.png), [TO-BE.bpmn](diagrams/moderation-to-be.bpmn, [TO-BE.png](diagrams/moderation-to-be.png). |
+| BPMN AS-IS и TO-BE | [diagrams/README.md](diagrams/README.md), [AS-IS.bpmn](diagrams/moderation-as-is.bpmn), [AS-IS.png](diagrams/moderation-as-is.png), [TO-BE.bpmn](diagrams/moderation-to-be.bpmn), [TO-BE.png](diagrams/moderation-to-be.png). |
 | ER, архитектура, deployment и UML | [diagrams/data-model.md](diagrams/data-model.md), [diagrams/architecture.md](diagrams/architecture.md), [diagrams/uml.md](diagrams/uml.md) |
 
 ## AS-IS и проблема
